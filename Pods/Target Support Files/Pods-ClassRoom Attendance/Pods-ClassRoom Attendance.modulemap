@@ -1,0 +1,6 @@
+framework module Pods_ClassRoom_Attendance {
+  umbrella header "Pods-ClassRoom Attendance-umbrella.h"
+
+  export *
+  module * { export * }
+}
